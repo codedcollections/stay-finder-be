@@ -1,0 +1,42 @@
+[
+  {
+    "booking_id": "booking_1001",
+    "property_id": "property_1001",
+    "guest_name": "Emma Andersson",
+    "guest_email": "emma.andersson@example.com",
+    "check_in": "2026-10-05",
+    "check_out": "2026-10-08",
+    "guests": 2,
+    "status": "confirmed"
+  },
+  {
+    "booking_id": "booking_1002",
+    "property_id": "property_1002",
+    "guest_name": "Liam Johansson",
+    "guest_email": "liam.johansson@example.com",
+    "check_in": "2026-10-12",
+    "check_out": "2026-10-15",
+    "guests": 3,
+    "status": "pending"
+  },
+  {
+    "booking_id": "booking_1003",
+    "property_id": "property_1003",
+    "guest_name": "Sofia Nilsson",
+    "guest_email": "sofia.nilsson@example.com",
+    "check_in": "2026-11-01",
+    "check_out": "2026-11-07",
+    "guests": 4,
+    "status": "confirmed"
+  },
+  {
+    "booking_id": "booking_1004",
+    "property_id": "property_1004",
+    "guest_name": "Noah Eriksson",
+    "guest_email": "noah.eriksson@example.com",
+    "check_in": "2026-11-18",
+    "check_out": "2026-11-21",
+    "guests": 2,
+    "status": "cancelled"
+  }
+]
